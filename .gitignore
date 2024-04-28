@@ -1,0 +1,18 @@
+.idea
+*.pyc
+*~
+
+docs/_build
+_dist/
+dist/
+.env
+.env.docker
+.env.production
+.DS_Store
+.direnv
+.envrc
+
+# uncomment these lines after setting up the front-end build pipeline in dev and production
+# static/css/
+# static/js/
+node_modules
